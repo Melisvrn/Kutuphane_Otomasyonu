@@ -1,7 +1,7 @@
 # Kutuphane_Otomasyonu
-Localhost üzerinde kutuphane_otomasyonu adıyla bir veritabanı oluşturduktan sonra dosyalardaki kutuphane_otomasyonu.sql'i içe aktarıyoruz. Artık veritabanımız hazır durumdadır.
+Localhost üzerinde kutuphane_otomasyonu adıyla bir veritabanı oluşturulduktan sonra dosyalardaki kutuphane_otomasyonu.sql'i içe aktarılmaktadır. Artık veritabanı hazır durumdadır.
 
-Python komut ekranında pip install tk pip install mysql-connector-python komutularını çalıştırıyoruz. Programı da artık kullanabilir durumdayız.
+Python komut ekranında pip install tk pip install mysql-connector-python komutuları çalıştırılmaktadır. Program artık kullanabilir durumdadır.
 
 ## Kayıt olma:
 
