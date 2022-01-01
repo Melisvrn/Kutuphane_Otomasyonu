@@ -11,7 +11,7 @@ Python komut ekranında pip install tk pip install mysql-connector-python komutu
 
 ![k2](https://user-images.githubusercontent.com/55049795/147842997-da111bf2-ceea-49e0-96b5-410f7b54754e.png)
 
-## Üyelik İşlemleri:
+## Üye İşlemleri:
 
 ![k4](https://user-images.githubusercontent.com/55049795/147843000-24dc21d7-7bff-4b77-93a8-dc08490d2578.png)
 
